@@ -4,7 +4,7 @@ class Solution {
         int m=word2.length();
         int i=0;
        StringBuilder sb = new StringBuilder();
-        while(i<m|i<n){
+        while(i<m||i<n){
             if(i<n){
                 sb.append(word1.charAt(i));
             }
