@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dheeraj261708/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dheeraj261708/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dheeraj261708/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dheeraj261708/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Queue
 |  |
 | ------- |
