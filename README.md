@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dheeraj261708/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dheeraj261708/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dheeraj261708/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dheeraj261708/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dheeraj261708/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dheeraj261708/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dheeraj261708/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
