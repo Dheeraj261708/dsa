@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dheeraj261708/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dheeraj261708/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dheeraj261708/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dheeraj261708/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -434,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0334-increasing-triplet-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
