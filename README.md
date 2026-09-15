@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dheeraj261708/DSA/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Dheeraj261708/DSA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dheeraj261708/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Dheeraj261708/dsa/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dheeraj261708/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dheeraj261708/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -449,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Dheeraj261708/dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
