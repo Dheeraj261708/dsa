@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dheeraj261708/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Dheeraj261708/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dheeraj261708/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj261708/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/dsa/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dheeraj261708/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dheeraj261708/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dheeraj261708/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
