@@ -2,31 +2,19 @@ class Solution {
 public:
     vector<int> maximumWeight(vector<vector<int>>& intervals) {
         int n = intervals.size();
-
-        // {start, end, weight, original_index}
         vector<array<long long, 4>> a;
 
         for (int i = 0; i < n; i++) {
-            a.push_back({
-                intervals[i][0],
-                intervals[i][1],
-                intervals[i][2],
-                i
-            });
+            a.push_back({intervals[i][0], intervals[i][1], intervals[i][2], i});
         }
 
         sort(a.begin(), a.end());
-
-        // dp[i][k] = best result using intervals from i onward,
-        // selecting at most k intervals.
         struct State {
             long long weight = 0;
             vector<int> indices;
         };
 
         vector<vector<State>> dp(n + 1, vector<State>(5));
-
-        // Find first interval whose start > current end
         vector<int> next(n);
 
         for (int i = 0; i < n; i++) {
@@ -54,10 +42,8 @@ public:
         for (int i = n - 1; i >= 0; i--) {
             for (int k = 1; k <= 4; k++) {
 
-                // Don't take this interval
                 State skip = dp[i + 1][k];
 
-                // Take this interval
                 State take = dp[next[i]][k - 1];
 
                 take.weight += a[i][2];
