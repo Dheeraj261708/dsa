@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Dheeraj261708/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dheeraj261708/DSA/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Dheeraj261708/dsa/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dheeraj261708/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/dsa/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/DSA/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Dheeraj261708/dsa/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dheeraj261708/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dheeraj261708/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dheeraj261708/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Dheeraj261708/dsa/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Dheeraj261708/dsa/tree/master/0933-number-of-recent-calls) |
 ## Pigeonhole Principle
 |  |
