@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dheeraj261708/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dheeraj261708/dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
