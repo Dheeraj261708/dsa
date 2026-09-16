@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Dheeraj261708/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dheeraj261708/DSA/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/dsa/tree/master/0940-distinct-subsequences-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dheeraj261708/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dheeraj261708/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Dheeraj261708/DSA/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dheeraj261708/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dheeraj261708/DSA/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
