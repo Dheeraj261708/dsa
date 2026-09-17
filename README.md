@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/dsa/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Dheeraj261708/dsa/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/dsa/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Dheeraj261708/dsa/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/dsa/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Geometry
 |  |
