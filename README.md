@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/Dheeraj261708/dsa/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dheeraj261708/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dheeraj261708/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dheeraj261708/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dheeraj261708/dsa/tree/master/0437-path-sum-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/Dheeraj261708/dsa/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/dsa/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/Dheeraj261708/dsa/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dheeraj261708/DSA/tree/master/2685-count-the-number-of-complete-components) |
