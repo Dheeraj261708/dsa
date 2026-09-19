@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dheeraj261708/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dheeraj261708/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dheeraj261708/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dheeraj261708/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Dheeraj261708/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dheeraj261708/DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Dheeraj261708/dsa/tree/master/0649-dota2-senate) |
@@ -372,12 +374,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/dsa/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dheeraj261708/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dheeraj261708/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/dsa/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/dsa/tree/master/0841-keys-and-rooms) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Dheeraj261708/dsa/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/dsa/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/dsa/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/dsa/tree/master/0841-keys-and-rooms) |
@@ -566,4 +572,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
