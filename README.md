@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dheeraj261708/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Dheeraj261708/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dheeraj261708/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dheeraj261708/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dheeraj261708/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dheeraj261708/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/DSA/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dheeraj261708/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dheeraj261708/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dheeraj261708/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dheeraj261708/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Dheeraj261708/dsa/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dheeraj261708/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dheeraj261708/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
