@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dheeraj261708/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/dsa/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/dsa/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/dsa/tree/master/2542-maximum-subsequence-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dheeraj261708/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dheeraj261708/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dheeraj261708/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/dsa/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/dsa/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/dsa/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dheeraj261708/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dheeraj261708/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dheeraj261708/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/dsa/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dheeraj261708/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dheeraj261708/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dheeraj261708/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/dsa/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/dsa/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
