@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dheeraj261708/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Dheeraj261708/DSA/tree/master/0125-valid-palindrome) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/Dheeraj261708/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dheeraj261708/DSA/tree/master/0567-permutation-in-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dheeraj261708/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dheeraj261708/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dheeraj261708/DSA/tree/master/0040-combination-sum-ii) |
