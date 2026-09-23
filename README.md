@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dheeraj261708/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Dheeraj261708/dsa/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Dheeraj261708/DSA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dheeraj261708/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/dsa/tree/master/0836-rectangle-overlap) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dheeraj261708/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dheeraj261708/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Dheeraj261708/dsa/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Dheeraj261708/dsa/tree/master/0198-house-robber) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Dheeraj261708/dsa/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dheeraj261708/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dheeraj261708/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dheeraj261708/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
