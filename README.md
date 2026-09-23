@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Dheeraj261708/dsa/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Dheeraj261708/dsa/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dheeraj261708/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dheeraj261708/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dheeraj261708/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Dheeraj261708/dsa/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dheeraj261708/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dheeraj261708/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
