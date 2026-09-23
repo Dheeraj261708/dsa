@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dheeraj261708/DSA/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dheeraj261708/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Dheeraj261708/dsa/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Dheeraj261708/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dheeraj261708/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Dheeraj261708/dsa/tree/master/0198-house-robber) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Dheeraj261708/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dheeraj261708/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Dheeraj261708/dsa/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dheeraj261708/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Dheeraj261708/dsa/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dheeraj261708/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
