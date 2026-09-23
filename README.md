@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dheeraj261708/DSA/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Dheeraj261708/dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Dheeraj261708/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dheeraj261708/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dheeraj261708/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Dheeraj261708/dsa/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Dheeraj261708/dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Dheeraj261708/dsa/tree/master/0198-house-robber) |
