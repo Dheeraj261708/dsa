@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dheeraj261708/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dheeraj261708/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dheeraj261708/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Dheeraj261708/dsa/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Dheeraj261708/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dheeraj261708/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/dsa/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/Dheeraj261708/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/dsa/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Dheeraj261708/dsa/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dheeraj261708/dsa/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Dheeraj261708/dsa/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/dsa/tree/master/0940-distinct-subsequences-ii) |
