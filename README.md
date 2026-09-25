@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Dheeraj261708/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dheeraj261708/dsa/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Dheeraj261708/dsa/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dheeraj261708/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dheeraj261708/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dheeraj261708/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Dheeraj261708/dsa/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Dheeraj261708/dsa/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dheeraj261708/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Recursion
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Dheeraj261708/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dheeraj261708/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Dheeraj261708/dsa/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dheeraj261708/dsa/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/Dheeraj261708/dsa/tree/master/2069-walking-robot-simulation-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dheeraj261708/dsa/tree/master/2336-smallest-number-in-infinite-set) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Dheeraj261708/dsa/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dheeraj261708/dsa/tree/master/0933-number-of-recent-calls) |
 ## Binary Lifting
 |  |
