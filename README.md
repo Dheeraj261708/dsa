@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/dsa/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dheeraj261708/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dheeraj261708/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Dheeraj261708/DSA/tree/master/1929-concatenation-of-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/DSA/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dheeraj261708/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dheeraj261708/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dheeraj261708/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dheeraj261708/dsa/tree/master/2336-smallest-number-in-infinite-set) |
