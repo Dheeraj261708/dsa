@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/dsa/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Dheeraj261708/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dheeraj261708/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Dheeraj261708/dsa/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Dheeraj261708/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dheeraj261708/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dheeraj261708/DSA/tree/master/0125-valid-palindrome) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Dheeraj261708/dsa/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0147-insertion-sort-list](https://github.com/Dheeraj261708/dsa/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/0206-reverse-linked-list) |
