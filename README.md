@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Dheeraj261708/dsa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Dheeraj261708/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Dheeraj261708/dsa/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Dheeraj261708/DSA/tree/master/0258-add-digits) |
