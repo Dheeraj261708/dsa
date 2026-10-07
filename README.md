@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dheeraj261708/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Dheeraj261708/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Dheeraj261708/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dheeraj261708/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dheeraj261708/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Dheeraj261708/dsa/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Dheeraj261708/dsa/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/dsa/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/dsa/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
