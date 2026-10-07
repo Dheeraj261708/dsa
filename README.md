@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/dsa/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/dsa/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/dsa/tree/master/0872-leaf-similar-trees) |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/dsa/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Dheeraj261708/dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dheeraj261708/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/dsa/tree/master/0872-leaf-similar-trees) |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/dsa/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Dheeraj261708/dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dheeraj261708/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/dsa/tree/master/0872-leaf-similar-trees) |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/dsa/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/dsa/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Geometry
