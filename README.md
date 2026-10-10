@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dheeraj261708/dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dheeraj261708/dsa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Dheeraj261708/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Dheeraj261708/dsa/tree/master/0062-unique-paths) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dheeraj261708/dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Dheeraj261708/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Dheeraj261708/dsa/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Dheeraj261708/dsa/tree/master/0394-decode-string) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dheeraj261708/dsa/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Dheeraj261708/dsa/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0147-insertion-sort-list](https://github.com/Dheeraj261708/dsa/tree/master/0147-insertion-sort-list) |
