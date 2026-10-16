@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dheeraj261708/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dheeraj261708/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dheeraj261708/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Dheeraj261708/dsa/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/dsa/tree/master/0435-non-overlapping-intervals) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheeraj261708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Dheeraj261708/dsa/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Dheeraj261708/dsa/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Dheeraj261708/dsa/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/dsa/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/dsa/tree/master/0435-non-overlapping-intervals) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/dsa/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/dsa/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Dheeraj261708/dsa/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/dsa/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/dsa/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dheeraj261708/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -782,4 +785,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dheeraj261708/dsa/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dheeraj261708/dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
