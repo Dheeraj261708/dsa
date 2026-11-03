@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/Dheeraj261708/dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dheeraj261708/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dheeraj261708/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dheeraj261708/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dheeraj261708/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dheeraj261708/dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dheeraj261708/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dheeraj261708/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dheeraj261708/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dheeraj261708/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dheeraj261708/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dheeraj261708/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dheeraj261708/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
